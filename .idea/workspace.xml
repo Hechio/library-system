@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fontawesome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/AnimateFX-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/controlsfx-8.40.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-commons-8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-controls-8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-emojione-2.2.7-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-fontawesome-4.7.0-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-glyphsbrowser-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-icons525-3.0.0-4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-materialdesignfont-1.7.22-4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-materialicons-2.2.0-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-octicons-4.3.0-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fontawesome/fontawesomefx-weathericons-2.0.10-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.mail-1.6.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/Profile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/Profile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/authentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/authentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/staffreg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/controller/staffreg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/fxml/staffreg.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/fxml/staffreg.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/fxml/ullafmain.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ullaf/ullaf/fxml/ullafmain.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/images/admin_a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/images/admin_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/images/gra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/images/lib1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ullaf/ullaf/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/Overdue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/Overdue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/SendEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/SendEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/authentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/authentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/staffreg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/staffreg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/controller/validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/controller/validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/fxml/entry.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/fxml/entry.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/fxml/registration.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/fxml/registration.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/images/admin_a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/images/admin_a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/images/admin_b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/images/admin_b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/images/gra.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/images/gra.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/images/lib1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/images/lib1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ullaf/images/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/others/images/logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ullaf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ullaf.iml" afterDir="false" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,7 +115,8 @@
     <session id="-1301630335">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="60" />
+          <entry key="project.open.time.-199" value="1" />
           <entry key="project.open.time.100" value="1" />
           <entry key="project.open.time.102" value="1" />
           <entry key="project.open.time.103" value="1" />
@@ -117,53 +169,55 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.66" value="2" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.71" value="2" />
+          <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.75" value="1" />
-          <entry key="project.open.time.77" value="1" />
-          <entry key="project.open.time.78" value="2" />
+          <entry key="project.open.time.77" value="2" />
+          <entry key="project.open.time.78" value="3" />
           <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.82" value="1" />
           <entry key="project.open.time.86" value="2" />
           <entry key="project.open.time.92" value="2" />
           <entry key="project.open.time.94" value="1" />
           <entry key="project.open.time.96" value="1" />
-          <entry key="project.open.time.97" value="2" />
+          <entry key="project.open.time.97" value="3" />
           <entry key="project.open.time.99" value="2" />
-          <entry key="project.opened" value="92" />
+          <entry key="project.opened" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1100" />
-          <entry key="fxml" value="788" />
-          <entry key="java" value="16584" />
+          <entry key="fxml" value="813" />
+          <entry key="java" value="17503" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1100" />
-          <entry key="JAVA" value="16584" />
-          <entry key="XML" value="788" />
+          <entry key="JAVA" value="17503" />
+          <entry key="XML" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="13" />
-          <entry key="fxml" value="79" />
+          <entry key="fxml" value="87" />
           <entry key="html" value="1" />
-          <entry key="java" value="118" />
+          <entry key="java" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="13" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="118" />
-          <entry key="XML" value="79" />
+          <entry key="JAVA" value="141" />
+          <entry key="XML" value="87" />
         </counts>
       </usages-collector>
     </session>
@@ -177,25 +231,47 @@
         <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="332" column="30" selection-start-line="332" selection-start-column="30" selection-end-line="332" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/entry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+              <caret line="192" selection-start-line="192" selection-end-line="192" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/fined.java">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Overdue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+            <state relative-caret-position="96">
+              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/authentication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="67" column="90" selection-start-line="67" selection-start-column="90" selection-end-line="67" selection-end-column="90" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/SendEmail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -204,72 +280,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/fined.fxml">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/entry.fxml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            <state relative-caret-position="380">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
           <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/cleared.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/status_active.fxml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/registration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="198" column="39" selection-start-line="198" selection-start-column="39" selection-end-line="198" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/registration.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
             </state>
           </provider>
           <provider editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/profile.fxml">
-          <provider editor-type-id="text-editor">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/validator.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Cleared.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/status_active.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4488">
-              <caret line="289" column="51" selection-start-line="289" selection-start-column="51" selection-end-line="289" selection-end-column="51" />
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ullaf/controller/staffreg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
             </state>
           </provider>
         </entry>
@@ -285,16 +341,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ButtonType</find>
+    </findStrings>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
-        <option value="$PROJECT_DIR$/src/ullaf/entyr.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/entry.java" />
         <option value="$PROJECT_DIR$/src/ullaf/styles/ullaf.css.html" />
         <option value="$PROJECT_DIR$/src/ullaf/cleared.fxml" />
@@ -309,21 +371,14 @@
         <option value="$PROJECT_DIR$/src/ullaf/TableModelImpl.java" />
         <option value="$PROJECT_DIR$/src/ullaf/TableModel.java" />
         <option value="$PROJECT_DIR$/src/ullaf/OnLoan.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/fxml/registration.fxml" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/registration.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/fxml/entry.fxml" />
         <option value="$PROJECT_DIR$/src/database_ullaf/ConnectivityClass.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/Main.java" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/overdue.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/cleared.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/styles/ullaf.css" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/onloan.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/OnLoan.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/Overdue.java" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/MyPrinter.java" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/fined.fxml" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/staffreg.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/book_search.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/book_search.java" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/TableModel.java" />
@@ -332,17 +387,27 @@
         <option value="$PROJECT_DIR$/src/ullaf/controller/fined.java" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/TableModel1.java" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/authentication.fxml" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/authentication.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/Profile.java" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/book_adding.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/profile.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/BookAdding.java" />
         <option value="$PROJECT_DIR$/src/ullaf/fxml/status_active.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/status_active.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/Cleared.java" />
-        <option value="$PROJECT_DIR$/src/ullaf/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/GenerateRandomPassword.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/Profile.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/Main.java" />
         <option value="$PROJECT_DIR$/src/ullaf/controller/entry.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/Overdue.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/fxml/entry.fxml" />
+        <option value="$PROJECT_DIR$/src/ullaf/fxml/registration.fxml" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/validator.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/registration.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/authentication.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/SendEmail.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/controller/staffreg.java" />
+        <option value="$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml" />
       </list>
     </option>
   </component>
@@ -359,6 +424,7 @@
     <option name="width" value="920" />
     <option name="height" value="616" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -368,8 +434,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -380,7 +446,18 @@
             <path>
               <item name="ullaf" type="b2602c69:ProjectViewProjectNode" />
               <item name="ullaf" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ullaf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ullaf" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ullaf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ullaf" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ullaf" type="b2602c69:ProjectViewProjectNode" />
@@ -440,28 +517,28 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549284269435" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550917806159" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SearchBar.fontawesomefx-glyphsbrowser-1.3.0/AnimateFX-1.2.0.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/fontawesome" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\others" />
+      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\fxml" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\controller" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\admin_prof" />
-      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\images" />
-      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\layouts" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\lib" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\fxml" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\controller" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf\layouts" />
-      <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\lib" />
       <recent name="C:\Users\Hechio\Desktop\hechio\AndroidStudioProjects\ullaf\src\ullaf" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
@@ -580,7 +657,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.10892587" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.22087745" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -603,15 +680,15 @@
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="JetGradle" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32980332" />
     </layout>
     <layout-to-restore>
@@ -662,44 +739,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/fxml/Initializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/entyr.fxml" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/event/EventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/styles/ullaf.css.html" />
-    <entry file="file://$PROJECT_DIR$/../../promodo/src/sample/controllers/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/TableModelImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/active_status.fxml" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/ActiveStatus.java" />
     <entry file="file://$PROJECT_DIR$/../../../ULLAF3/ULLAF/src/sample/controller/entry.java" />
     <entry file="file://$PROJECT_DIR$/../../../ULLAF3/ULLAF/src/sample/controller/authentication.java" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/student_status.fxml" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/StudentStatus.java" />
-    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/registration.fxml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="146" selection-start-line="9" selection-start-column="146" selection-end-line="9" selection-end-column="146" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/Timestamp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
@@ -707,35 +752,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/entry.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/database_ullaf/ConnectivityClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/overdue.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/MyPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -743,21 +766,6 @@
           <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/registration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/book_search.fxml" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/book_search.java" />
@@ -770,48 +778,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/student_search.fxml" />
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/StudentSearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/ullaf/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/TableModel1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/staffreg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Overdue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/authentication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/authentication.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/styles/ullaf.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -820,31 +792,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Profile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#740#741#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/book_adding.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/onloan.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/sql/PreparedStatement.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -878,41 +840,130 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/fined.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/cleared.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="122" selection-start-line="29" selection-start-column="122" selection-end-line="29" selection-end-column="122" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/status_active.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/profile.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/com/sun/javafx/application/LauncherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="926" selection-start-line="926" selection-end-line="926" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="599" selection-start-line="599" selection-end-line="599" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/scene/image/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="1114" selection-start-line="1114" selection-end-line="1114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/security/Security.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/GenerateRandomPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/authentication.fxml">
       <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Cleared.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+          <folding>
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/entry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database_ullaf/ConnectivityClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -927,24 +978,93 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/ullafmain.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="198" column="39" selection-start-line="198" selection-start-column="39" selection-end-line="198" selection-end-column="39" />
+        <state relative-caret-position="462">
+          <caret line="83" column="22" lean-forward="true" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Overdue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/entry.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/registration.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/registration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ullaf/controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="332" column="30" selection-start-line="332" selection-start-column="30" selection-end-line="332" selection-end-column="30" />
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/entry.java">
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/SendEmail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="68" column="25" lean-forward="true" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        <state relative-caret-position="314">
+          <caret line="63" column="56" selection-start-line="63" selection-start-column="56" selection-end-line="63" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/controller/staffreg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ullaf/fxml/staffreg.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="67" column="90" selection-start-line="67" selection-start-column="90" selection-end-line="67" selection-end-column="90" />
         </state>
       </provider>
     </entry>

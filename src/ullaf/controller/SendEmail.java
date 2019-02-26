@@ -15,7 +15,7 @@ public class SendEmail {
         boolean check=false;
         try {
         String host="smtp.gmail.com";
-        String user="ullaf001@gmail.com";
+        String user="ullaf@gmail.com";
         String password="ullaf001";
         String from="ullaf001@gmail.com";
         String subject=aSubject;
@@ -61,7 +61,8 @@ public class SendEmail {
             check=true;
 
         } catch (Exception e) {
-            e.printStackTrace();
+            System.out.println("Couldn't connect to host");
+            //e.printStackTrace();
             check=false;
         }
 

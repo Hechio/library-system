@@ -34,7 +34,7 @@ public class Overdue implements Initializable {
         ConnectivityClass connectivityClass = new ConnectivityClass();
         Connection connection = connectivityClass.getConnection();
         try {
-            ResultSet resultSet = connection.createStatement().executeQuery("select Book_id, Student_id from overdue");
+            ResultSet resultSet = connection.createStatement().executeQuery("select DISTINCTROW Book_id, Student_id from overdue");
 
             while (resultSet.next()){
                 observableList.add(new TableModel(resultSet.getString("Book_id"),resultSet.getString("Student_id")));

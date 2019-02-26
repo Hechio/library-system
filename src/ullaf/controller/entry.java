@@ -10,6 +10,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
+import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
@@ -63,6 +64,7 @@ public class entry {
                       status_active status = loader.getController();
                       status.retrive_id(id_text.getText());
                       Stage stage_app = new Stage();
+                      //stage_app.getIcons().add(image);
                       stage_app.initModality(Modality.APPLICATION_MODAL);
                       stage_app.focusedProperty().addListener(e-> {
                           stage_app.toFront();
@@ -105,14 +107,14 @@ public class entry {
             e.printStackTrace();
         }
         Scene change_scene = new Scene(change);
-            Stage stage_app = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
+            Stage stage_app = new Stage();
             stage_app.setScene(change_scene);
+           // stage_app.getIcons().add(image);
             //change_scene.getStylesheets().add("ullaf.css");
             stage_app.show();
     }
-    public void close(AnchorPane anchorPane){
+   /* public void close(AnchorPane anchorPane){
         Stage stage = (Stage) anchorPane.getScene().getWindow();
         stage.close();
-
-    }
+    }*/
 }

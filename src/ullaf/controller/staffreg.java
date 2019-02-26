@@ -11,6 +11,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
+import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 import ullaf.controller.validator;
@@ -26,10 +27,12 @@ public class staffreg {
     public TextField password;
     public TextField confirm_password;
     public PasswordField admin_pass;
-    private JEditorPane responseLabel;
+    public TextField email;
+
 
     @FXML
     public Label PasswordErrorLabel;
+    public Label report_email;
 
     validator validate= new validator();
 
@@ -47,7 +50,7 @@ public class staffreg {
               if(getPass.equals(admin_pass.getText())){
 
 
-                  String sql="INSERT INTO STAFF_REGISTRATION(name, staff_id, password, confirm_password) VALUES('"+name_field.getText()+"','"+staff_id.getText()+"','"+password.getText()+"','"+confirm_password.getText()+"')";
+                  String sql="INSERT INTO STAFF_REGISTRATION(name, staff_id, password, confirm_password, email) VALUES('"+name_field.getText()+"','"+staff_id.getText()+"','"+password.getText()+"','"+confirm_password.getText()+"','"+email.getText()+"')";
                   Statement statement = null;
                   try {
                       statement = connection.createStatement();
@@ -91,5 +94,29 @@ public class staffreg {
         }
 
 
+    }
+
+    public void back_entry(MouseEvent event) {
+        Parent change = null;
+        try {
+            change = FXMLLoader.load(getClass().getResource("../fxml/authentication.fxml"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Scene change_scene = new Scene(change);
+        Stage stage_app = (Stage) ((Node) event.getSource()).getScene().getWindow();
+        stage_app.setScene(change_scene);
+        //stage_app.getIcons().add(image);
+        stage_app.show();
+    }
+    
+
+
+
+    public void emailCheck(KeyEvent keyEvent) {
+        String emailEntered = email.getText();
+        validator valid = new validator();
+        if( valid.emailValidate(emailEntered));
+        else report_email.setText("Invalid email");
     }
 }

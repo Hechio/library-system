@@ -60,7 +60,7 @@ public class Profile {
             Stage stage_app = new Stage(); //(Stage) ((Node) event.getSource()).getScene().getWindow();
             stage_app.setScene(change_scene);
             stage_app.show();
-            entry en = new entry();
+            authentication en = new authentication();
             en.close(profile_anchor);
 
 

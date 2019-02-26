@@ -78,14 +78,14 @@
                         <Rectangle2D />
                      </viewport>
                      <image>
-                        <Image url="@../images/logo.jpg" />
+                        <Image url="@../../../others/images/logo.jpg" />
                      </image>
                   </ImageView>
                </left>
                <right>
                   <ImageView fitHeight="101.0" fitWidth="190.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
                      <image>
-                        <Image url="@../images/lib1.jpg" />
+                        <Image url="@../../../others/images/lib1.jpg" />
                      </image></ImageView>
                </right>
                <center>

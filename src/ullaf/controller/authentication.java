@@ -6,16 +6,21 @@ import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
+import javafx.scene.Cursor;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
+import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 import org.controlsfx.control.textfield.CustomPasswordField;
 import org.controlsfx.control.textfield.CustomTextField;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URL;
 import java.sql.Connection;
@@ -36,8 +41,6 @@ public class authentication implements Initializable {
     public AnchorPane anchor_auth;
     private ActionEvent event;
     public CustomTextField staff_id;
-
-
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
@@ -65,11 +68,14 @@ public class authentication implements Initializable {
         Scene change_scene = new Scene(change);
         Stage stage_app = (Stage) ((Node) mouseEvent.getSource()).getScene().getWindow();
         stage_app.setScene(change_scene);
+        //stage_app.getIcons().add(image);
         stage_app.show();
     }
 
 
     public void login(ActionEvent actionEvent) {
+        staff_log.setCursor(Cursor.WAIT);
+        Image image1 = new Image("/images/logo.jpg");
         ConnectivityClass connectionClass=new ConnectivityClass();
         Connection connection= connectionClass.getConnection();
 
@@ -92,17 +98,21 @@ public class authentication implements Initializable {
         stage_app.setScene(new Scene(root));
         stage_app.setResizable(false);
         stage_app.setMaximized(true);
+        stage_app.getIcons().add(image1);
         stage_app.show();
         stage_app.setOnCloseRequest(event1 -> {
                 Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
                 alert.setHeaderText(null);
+                alert.getDialogPane().getScene().getWindow();
+
         alert.setTitle("Close ULLAF");
         alert.setContentText("Do you want to exit");
         alert.showAndWait().filter(e->e!=ButtonType.OK).ifPresent(e->event1.consume());});
+
         Controller c = change.getController();
         c.retrive_id(staff_id.getText());
         entry enter = new entry();
-        enter.close(anchor_auth);
+        close(anchor_auth);
 
            }else {
                 connect_feedback.setText("Cannot log in check details");
@@ -113,6 +123,10 @@ public class authentication implements Initializable {
         }
 
 
+    }
+    public void close(AnchorPane anchorPane){
+        Stage stage = (Stage) anchorPane.getScene().getWindow();
+        stage.close();
     }
 
     }

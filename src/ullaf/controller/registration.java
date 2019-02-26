@@ -20,6 +20,7 @@ public class registration {
     public ActionEvent event;
     public TextField id_field;
     public TextField name_field;
+    public TextField email_address;
 
 
     public void register(ActionEvent actionEvent) {

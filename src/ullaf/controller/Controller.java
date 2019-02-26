@@ -76,6 +76,7 @@ public class Controller implements Initializable {
     private Stage stage;
     public BorderPane borderpane;
 
+
     public Controller() {
     }
 
@@ -111,7 +112,7 @@ public class Controller implements Initializable {
    }
 
     public void start(Stage stage)throws FileNotFoundException {
-        Image image = new Image(new FileInputStream("C:\\Users\\Hechio\\Desktop\\hechio\\AndroidStudioProjects\\ullaf\\src\\ullaf\\admin_a.jpg"));
+        Image image = new Image(new FileInputStream("/images/gra.jpg"));
         admin_a = new ImageView(image);
         stage.show();
     }
@@ -188,7 +189,8 @@ public class Controller implements Initializable {
                     String query = "insert into overdue select Book_id,Student_id,Duration,Date_loaned,Time_loaned from onloan";
                     PreparedStatement preparedStatement = connection.prepareStatement(query);
                     preparedStatement.executeUpdate();
-
+                    SendEmail email = new SendEmail();
+                    email.sendEmailMessage("Overdue Book","Please return book to the library to avoid fining","westvirginia01@gmail.com");
                 }
             }
         } catch (SQLException e) {
@@ -223,6 +225,7 @@ public class Controller implements Initializable {
             Stage stage_app = new Stage(); //(Stage) ((Node) event.getSource()).getScene().getWindow();
             stage_app.setScene(change_scene);
             //change_scene.getStylesheets().add("ullaf.css");
+            //stage_app.getIcons().add(image1);
             stage_app.show();
             close(borderpane);
         }
@@ -341,13 +344,14 @@ public class Controller implements Initializable {
     }
 
     public void profile_load(ActionEvent actionEvent) throws IOException {
-
+       Image image1 = new Image("/images/logo.jpg");
         FXMLLoader loader= new  FXMLLoader(getClass().getResource("../fxml/profile.fxml"));
         Parent root= loader.load();
         Profile pro = loader.getController();
         pro.displayId(profileStaff.getText());
         Stage stage_app = new Stage();
         stage_app.setScene(new Scene(root));
+        stage_app.getIcons().add(image1);
         stage_app.show();
 
     }
